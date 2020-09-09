@@ -1,0 +1,10 @@
+[package]
+authors = ["Flauer <751533978@qq.com>"]
+description = "用 Rust 刷 LeetCode"
+edition = "2018"
+name = "leetcode-rust"
+version = "0.1.0"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
