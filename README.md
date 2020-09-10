@@ -10,7 +10,7 @@
 
 我的设置：
 
-```json
+```jsonc
 "leetcode.defaultLanguage": "rust",
 "leetcode.editor.shortcuts": ["submit", "test", "solution", "description"],
 // leetcode 的工作区文件夹
