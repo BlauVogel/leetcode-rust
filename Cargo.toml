@@ -1,7 +1,8 @@
 [package]
 authors = ["Flauer <751533978@qq.com>"]
-description = "用 Rust 刷 LeetCode"
+description = "LeetCode solutions in Rust, with Chinese comment. 用 Rust 刷 LeetCode，带中文注释"
 edition = "2018"
+license = "MIT"
 name = "leetcode-rust-cn"
 version = "0.1.0"
 
