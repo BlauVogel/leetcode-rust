@@ -12,7 +12,7 @@ LeetCode solutions in Rust, with Chinese comment. 用 Rust 刷 LeetCode，带中
 
 我的设置：
 
-```jsonc
+```json
 "leetcode.defaultLanguage": "rust",
 "leetcode.editor.shortcuts": ["submit", "test", "solution", "description"],
 // leetcode 的工作区文件夹

@@ -3,6 +3,8 @@
 //! 此题解中，HashMap 的 get 方法达到了配对的目的（对某一个值，在容器中找到符合要求的那一个）。
 //! HashMap 的 insert 和 get 方法都是 O(1)，最终复杂度就是 O(n)。
 //! 如果每次循环都遍历所有的元素，最终复杂度就是 O(n^2)。
+//!
+//! [Submission Detail](https://leetcode.com/submissions/detail/393771096/)
 
 /*
  * @lc app=leetcode id=1 lang=rust
