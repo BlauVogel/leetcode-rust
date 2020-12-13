@@ -8,6 +8,8 @@ LeetCode solutions in Rust, with Chinese comment. 用 Rust 刷 LeetCode，带中
 - 插件 [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=matklad.rust-analyzer)
 - 插件 [CodeLLDB](https://marketplace.visualstudio.com/items?itemName=vadimcn.vscode-lldb)
 
+切换到 LeetCode 英文版，然后通过第三方帐号(如 GitHub)登录
+
 用法：写好代码后，先点击 `Test`（这相当于在网页中点击 `Run Code`）来查看运行结果，确保显示的结果正确后再点击 `Submit`（这相当于在网页中点击 `Submit`）完成提交。
 
 我的设置：

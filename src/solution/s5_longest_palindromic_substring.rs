@@ -6,6 +6,8 @@
 
 pub struct Solution;
 
+// 暴力法
+// 在字符串中选择一个位置，然后左右两边进行比对
 // @lc code=start
 impl Solution {
     pub fn longest_palindrome(s: String) -> String {

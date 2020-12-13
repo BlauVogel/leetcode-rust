@@ -18,7 +18,7 @@ impl Solution {
         }
         let num_rows = num_rows as usize;
         let base = if num_rows == 1 { 1 } else { 2 * num_rows - 2 }; // 每一组的个数
-        let times = if base == 0 { 0 } else { len / base };
+        let times = len / base;
         let mut result = String::with_capacity(len);
         let chars: Vec<char> = s.chars().collect();
 

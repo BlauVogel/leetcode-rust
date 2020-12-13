@@ -9,7 +9,8 @@
 
 pub struct Solution;
 
-// TODO 使用 byte 而非 char 也许能够减少内存
+// TODO 使用 byte 而非 char 也许能够减少内存，Rust 中的 char 是 4 个字节，但考虑对齐的话又不一定
+// 暴力法
 // @lc code=start
 impl Solution {
     pub fn length_of_longest_substring(s: String) -> i32 {
